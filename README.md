@@ -4,7 +4,7 @@ Got it — your notebook doesn’t seem to have detailed markdown documentation 
 Here’s a **ready-to-use README.md** draft you can directly put in your GitHub repo:
 
 ---
-
+### code link -> https://www.kaggle.com/code/sparshrastogicsv/emotion-analysis-and-prediction-using-nlp-lstm-93/
 ## -> Emotion Analysis in Chat Conversations using LSTM
 
 ### -> Project Overview
