@@ -5,9 +5,9 @@ Here’s a **ready-to-use README.md** draft you can directly put in your GitHub 
 
 ---
 
-## 🧠 Emotion Analysis in Chat Conversations using LSTM
+## -> Emotion Analysis in Chat Conversations using LSTM
 
-### 📌 Project Overview
+### -> Project Overview
 
 This project focuses on detecting human emotions from chat-based text conversations using deep learning. The model classifies user messages into different emotional categories (such as *happy, sad, angry, neutral, fear,* etc.) by analyzing textual cues.
 Recurrent Neural Networks (RNNs) with Long Short-Term Memory (LSTM) layers are used to capture the sequential dependencies in language and context transitions within conversations.
@@ -35,7 +35,7 @@ Achieved **93% classification accuracy**, making it highly effective for emotion
 
 ---
 
-### 🏗️ Model Architecture
+### ->Model Architecture
 
 The model uses a **Sequential LSTM** architecture implemented in TensorFlow/Keras:
 
@@ -55,7 +55,7 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 ---
 
-### ⚙️ How to Run the Project
+### -> How to Run the Project
 
 1. **Clone the repository**
 
@@ -84,7 +84,7 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 ---
 
-### 📊 Results
+### -> Results
 
 | Metric    | Value   |
 | --------- | ------- |
@@ -97,7 +97,7 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 ---
 
-### 🚀 Future Work
+### -> Future Work
 
 * Incorporate **attention mechanisms** or **BiLSTM** for improved contextual understanding.
 * Compare performance with **transformer-based models (BERT, RoBERTa)**.
@@ -106,7 +106,7 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 ---
 
-### 🧩 Tech Stack
+### -> Tech Stack
 
 * **Python 3.x**
 * **TensorFlow / Keras**
@@ -115,7 +115,7 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 ---
 
-### 🧑‍💻 Author
+### -> Author
 
 **Sparsh Rastogi**
 AI Branch, IIT Patna
