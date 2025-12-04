@@ -1,9 +1,5 @@
 # Emotional-Analysis-in-Chat-Conversations-and-Classification
-Got it — your notebook doesn’t seem to have detailed markdown documentation inside (it starts directly with imports and notes on data imbalance). No problem — I’ll build a **complete, polished README.md** for your LSTM-based Emotion Analysis project using best practices and inferred structure from standard emotion recognition workflows.
 
-Here’s a **ready-to-use README.md** draft you can directly put in your GitHub repo:
-
----
 ### code link -> https://www.kaggle.com/code/sparshrastogicsv/emotion-analysis-and-prediction-using-nlp-lstm-93/
 ## -> Emotion Analysis in Chat Conversations using LSTM
 
@@ -122,5 +118,3 @@ AI Branch, IIT Patna
 Adobe Product Intern | Research Consultant (WorldQuant)
 
 ---
-
-Would you like me to generate a **requirements.txt** file from your notebook’s imports as well? That way, you can instantly push both files (`README.md` + `requirements.txt`) to GitHub.
